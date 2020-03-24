@@ -1,0 +1,75 @@
+li{
+	display: inline;
+}
+#cont2, #undercorse{
+	margin-top: 15%;
+	margin-bottom: 20%;
+}
+.big-banner4{
+	background-color: black;
+}
+#row1{
+	display: block;
+	font-family: 'Libre Caslon Display', serif;
+	font-size: 60px;
+	color: white;
+}
+.big-banner{
+	background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-strategies.jpg);
+	height: 840px;
+	background:  
+}
+.title{
+	display: block;
+}
+/*.big-banner1{
+	background-position: left;
+	height: 50px;
+	width: 1349px;
+	background-image: url();
+}*/
+.big-banner2{
+	background-color:  #fcdcdc;
+}
+#row2{
+	height: 50px;
+	width: 1349px;
+
+}
+#row3{
+	height: 50px;
+	width: 1349px;
+}
+
+#img1{
+	align-items: left;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+#paragraph p{
+	font-family: 'Libre Caslon Display', serif;
+	font-size:  25px;
+}
+#paragraph h1{
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 2%;
+}
+.col-4 p{
+	display: block;
+}
+#ul1 li{
+	margin-top: 5%;
+	display: block;
+	color: white;
+}
+#photos{
+	margin-bottom: 10%;
+}
+.headerStyle{
+	color: #FFFFFF;
+    font-family: "Helvetica Neue";
+    font-size: 13px;
+    text-transform: uppercase;
+}
